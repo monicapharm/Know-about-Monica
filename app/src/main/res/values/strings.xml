@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Know about Monica</string>
+    <string name="app_name">Know Me</string>
 
     <string name="start_button">Start from here</string>
     <string name="start_content">Monica Ma\nDigital Resume</string>
-    <string name="title_activity_main">Digital Resume</string>
+    <string name="title_activity_main">Monica Ma</string>
     <string name="title_skill">skills</string>
     <string name="skills">• <b><i>Programming Languages:</i></b> \nJava, Python, JavaScript, HTML, CSS, iOS Swift, Kotlin, C++, SQL\n
             \n• <b><i>Professional Skills:</i></b> \nGit/GitHub, Unix, Maven, Gradle, MongoDB, MySQL, JMeter, JUnit, JSON, Tomcat,
