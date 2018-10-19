@@ -8,4 +8,16 @@
     tools:context=".SecondActivity"
     tools:showIn="@layout/activity_second">
 
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/projects"
+        android:textColor="@color/colorAccent"
+        android:textSize="18dp"
+        android:scrollbars = "vertical"
+        android:padding="30dp"
+        >
+    </TextView>
+
 </android.support.constraint.ConstraintLayout>

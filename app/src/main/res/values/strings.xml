@@ -26,5 +26,29 @@ Web Development, Android Development, iOS Mobile Development, Machine Learning, 
         \n<b><i>Associate Specialist in Digital Solution\nMedtronic Inc., Shanghai</i></b>
         \n• Analyzed over 2,000 Parkinson patients’ data using Python, used Tableau to create multi-metrics dashboards, driving business decisions on patients’ media preferences
         \n• Built new features within Medtronic’s official website and WeChat platforms resulting in 233% increase in the number of users, managed the development and testing of patient stories/videos’ web apps</string>
-    <string name="title_activity_second">More...</string>
+    <string name="title_activity_second">More projects I did...</string>
+    <string name="projects"><b><i>Android App for Easy Carpooling</i></b>\n
+        • Designed and developed an Android App for students to easily find a carpool ride, the rider and driver can
+        be connected via the app to carpool to the same class/campus event\n
+        • Integrated Google Map API to display the nearby users and navigate to the destination\n
+        • Implemented features such as login/logout module, call/cancel a carpool, nearby riders within a distance,
+        user data management with Amazon EC2 to handle queries, etc.\n
+        \n<b><i>Twitter Clone</i></b>\n
+        • Analyzed the requirement of Twitter and developed an interactive web application based on MVC for users
+        to post, view, and search tweets using HTML, CSS, and JavaScript\n
+        • Designed Twitter architecture with features including account registration, session, publishing character-
+        number-restricted tweets, viewing tweets with descending time order, follow/unfollow other users and
+        searching tweets with PHP, AJAX, MySQL, EcoWeb Hosting, FileFTP\n
+        • Used Bootstrap and D3 to build frontend pages for better visualization\n
+        \n<b><i>NFL Game Prediction</i></b>\n
+        • Trained a model of NFL team offensive and defensive quality to best matches the data from a collection of
+        NFL games using Java, implemented the coordinate descent algorithm to calculate the model parameters\n
+        • Tuned the parameters of the training model to avoid overfitting and minimize the errors\n
+        • Applied the trained model to simulate and predict the winning percentage of future NFL games\n
+        • Wrote Unit Test with Junit\n
+        \n<b><i>Tic-Tac-Toe App with AI</i></b>\n
+        • Designed and implemented an Android App for the users to play Tic-Tac-Toe game with computer AI\n
+        • Implemented the computer AI using a minimax tree-search algorithm and optimized searching with simple
+        pruning and alpha-beta pruning techniques
+    </string>
 </resources>
