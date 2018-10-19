@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Know about Monica</string>
+
+    <string name="start_button">Start from here</string>
+    <string name="start_content">Monica Ma\nDigital Resume</string>
+    <string name="title_activity_main">Digital Resume</string>
+    <string name="title_skill">skills</string>
+    <string name="skills">• <b><i>Programming Languages:</i></b> \nJava, Python, JavaScript, HTML, CSS, iOS Swift, Kotlin, C++, SQL\n
+            \n• <b><i>Professional Skills:</i></b> \nGit/GitHub, Unix, Maven, Gradle, MongoDB, MySQL, JMeter, JUnit, JSON, Tomcat,
+            jQuery, Bootstrap, D3.js, Google Map API, Amazon EC2, R, Tableau\n
+            \n• <b><i>Courses:</i></b> \nData Structures and Algorithms, Algorithms and Computational Complexity, Database Systems,
+Web Development, Android Development, iOS Mobile Development, Machine Learning, Data Science</string>
+    <string name="title_education">Education</string>
+    <string name="education">• <b><i>University of Washington, Seattle, WA</i></b>
+            \nM.S. in Management Information Systems, Information School
+            \nSpecialization in Software Development, GPA: 3.89/4.0\n
+            \n• <b><i>Shanghai Jiao Tong University, Shanghai</i></b>
+            \nB.S. M.S. in Bioinformatics and Pharmaceutical Science, GPA: 3.95/4.0, Rank: 1/76</string>
+    <string name="title_work">Work Experience</string>
+    <string name="work"><b><i>Software Engineer (Full-time Internship)\nAgilysys, Inc., Bellevue, WA</i></b>
+        \n• Worked on Agilysys Buy team in Java backend development with Spring framework for a point-of-sale kiosk used in 1/3 of corporate cafeteria nationwide
+        \n• Designed and implemented RESTful APIs for the partnership with Microsoft to allow customers to search
+        stores, get items and update payment, etc.
+        \n• Built MongoDB template to capture the item data with the Spring MongoDB
+        \n• Wrote unit tests (Mockito and TestNG) and test suites, tested HTTP requests and responses by JMeter\n
+        \n<b><i>Associate Specialist in Digital Solution\nMedtronic Inc., Shanghai</i></b>
+        \n• Analyzed over 2,000 Parkinson patients’ data using Python, used Tableau to create multi-metrics dashboards, driving business decisions on patients’ media preferences
+        \n• Built new features within Medtronic’s official website and WeChat platforms resulting in 233% increase in the number of users, managed the development and testing of patient stories/videos’ web apps</string>
+    <string name="title_activity_second">More...</string>
+</resources>
